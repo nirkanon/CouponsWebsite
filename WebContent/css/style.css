@@ -1,0 +1,50 @@
+.border {
+	border: 1px solid black;
+}
+.coupon-container{
+	height : 200px;
+	width : 700px;
+}
+.coupon-details-name{
+	height : 90px;
+	width : 300px;
+	top : 10px;
+}
+.coupon-container .image-container,
+.coupon-container .coupon-details,
+.coupon-container .price{
+		height : 200px;
+}
+#outer {
+  position: relative;
+}
+#inner {
+    margin: auto;  
+  position: absolute;
+  left:0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.divmaincontainer_home {border: 1px solid #E3E5E6; float: right; height: 140px; margin-bottom: 20px; text-align: right; width: 760px}
+.divpic_home {float: right; height: 120px; margin: 10px; width: 160px}
+.divcentertext_home {float: right; height: 120px; margin: 10px 5px; text-align: right; width: 360px}
+.divtitle_home {float: right; height: 63px; text-align: right; width: 360px}
+.deal-details {clear: both; color: #999999; float: right; font-size: 11px; padding-bottom: 7px; width: 370px}
+.deal-details span.label {display: inline-block; float: right; font-weight: bold; width: 52px}
+.deal-details a {color: #45535C; float: right !important; text-decoration: none}
+.deal-details span.label.short {width: 30px}
+.divtime_home {height:20px}
+.count-down {clear:both; padding-top:5px; font-size:12px }
+.ColorGray4 {color: #373C40}
+.F11 {font-size: 11px}
+.F12 {font-size: 12px}
+.F21 {font-size: 21px}
+.rtl {direction: rtl}
+.TextC {text-align: center }
+.divdiscount_home {color: #999999; float: right; height: 30px; margin: 8px 0 0; width: 55px}
+.ColorGreen {color: #669900}
+.divline {border-bottom: 1px solid #E3E5E6; border-top: 1px solid #E3E5E6;  height: 40px; margin: 10px 0; width: 190px}
+#settings.sett-favorite .deal_wrap{ overflow:hidden}
+.divbuy_home {float: right; height: 120px; margin: 8px; width: 190px}
